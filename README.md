@@ -2,7 +2,7 @@
 - 👀 I’m interested in Salesforce and Clean Architecture
 - 🌱 I’m currently learning unlocked packages (Salesforce)
 - 💞️ I’m looking to collaborate on Salesforce Apps
-<!--- - 📫 How to reach me --->
+- 📫 How to reach me https://trailblazer.me/id/mmartinez19
 
 <!---
 mdanielmartinez/mdanielmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
